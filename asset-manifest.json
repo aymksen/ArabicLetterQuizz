@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ArabicLetterQuizz/static/css/main.89e26116.css",
+    "main.js": "/ArabicLetterQuizz/static/js/main.61d11a48.js",
+    "index.html": "/ArabicLetterQuizz/index.html",
+    "main.89e26116.css.map": "/ArabicLetterQuizz/static/css/main.89e26116.css.map",
+    "main.61d11a48.js.map": "/ArabicLetterQuizz/static/js/main.61d11a48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e26116.css",
+    "static/js/main.61d11a48.js"
+  ]
+}
